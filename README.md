@@ -21,7 +21,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 1: Introducción al desarrollo web (5 minutos) — Sebastián
 - **Descripción**: Explica qué es un sitio web, cómo funciona Internet y cuál es el rol de HTML y CSS en la construcción de páginas.  
 - **Objetivo**: Que los estudiantes comprendan la estructura básica de la web.  
-- **Enlace**: [Ver la lección]()  
+- **Enlace**: [Ver la lección](https://youtu.be/sdGCdmTru6U)  
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).  
 - **Empieza a programar**: [Abrir CodePen](https://codepen.io/pen/)  
 
@@ -30,7 +30,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 2: Introducción a HTML (10 minutos) — Jose
 - **Descripción**: Enseña las etiquetas básicas `<html>`, `<head>`, `<body>`, `<h1>`, `<p>` y cómo estructurar la primera página web desde cero.  
 - **Objetivo**: Que el estudiante pueda crear contenido básico en una página web.  
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)  
+- **Enlace**: [Ver la lección](https://youtu.be/LirJ9c6tjEg)  
 - **Consejos clave**: Usa estructura HTML correcta y agrega contenido simple.  
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) **¡No necesitas registrarte!**  
 
@@ -48,7 +48,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 4: Introducción a CSS (12 minutos) — Angel
 - **Descripción**: Explica qué son los selectores, propiedades y valores en CSS. Muestra cómo aplicar colores, fuentes, bordes y estilos simples.  
 - **Objetivo**: Aplicar diseño visual básico a las páginas HTML.  
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)  
+- **Enlace**: [Ver la lección](https://youtu.be/5FeutYtIcvk)  
 - **Consejos clave**: Selectores de elemento, propiedades como `color`, `background-color`, `font-size`, `border`.  
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/)  
 
