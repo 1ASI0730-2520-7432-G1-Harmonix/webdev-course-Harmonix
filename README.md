@@ -72,9 +72,9 @@ requiere descargas!** Solo abre tu navegador web.
 | Lección # | Actividad | Empezar a Programar | 
 |----------|----------|-------------| 
 | 1 | Explorar Sitios Web | [CodePen]() | 
-| 2 | Primera página HTML | [CodePen]() | 
-| 3 | Añadir imágenes | [CodePen]() | 
-| 4 | Estilo de la página | [CodePen]() | 
+| 2 | Primera página HTML | [CodePen](/leasson-two/leasontwo.html) | 
+| 3 | Añadir imágenes | [CodePen](/leasson-three/leasonthree.html) | 
+| 4 | Estilo de la página | [CodePen](/lesson-four/lessonfour.html) | 
 | 5 | Página de perfil | [CodePen]() | 
 
 - Compartir: #WebDevHarmonix
