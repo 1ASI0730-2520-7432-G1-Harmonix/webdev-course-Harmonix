@@ -75,7 +75,6 @@ requiere descargas!** Solo abre tu navegador web.
 | 4 | Estilo de la página | [CodePen]() | 
 | 5 | Página de perfil | [CodePen]() | 
 
-- Cuestionario: [Pon a prueba tus conocimientos]() 
 - Compartir: #WebDevHarmonix
 
 
