@@ -59,7 +59,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 5: Proyecto final + Cierre (15 minutos) — Kevin
 - **Descripción**: Muestra cómo combinar HTML y CSS para crear una página personal o página de perfil completa. Incluye consejos finales, errores comunes y próximos pasos para seguir aprendiendo desarrollo web.  
 - **Objetivo**: Consolidar todo lo aprendido en el curso y motivar al estudiante a continuar explorando.  
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)  
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=yUL_-GP8XyU)  
 - **Consejos clave**: Integración HTML + CSS, depuración básica y buenas prácticas.  
 - **Proyecto Final**: [Crear tu Perfil]() 
 
