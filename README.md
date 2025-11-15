@@ -13,6 +13,8 @@ requiere descargas!** Solo abre tu navegador web.
 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
 
+**Listado de Videos**: [https://www.youtube.com/playlist?list=PL5HnkUUAU_81QZUI9-GmUr79oGuUBwM-8](https://www.youtube.com/playlist?list=PL5HnkUUAU_81QZUI9-GmUr79oGuUBwM-8)
+
 
 **Repositorio de código fuente**: [https://github.com/1ASI0730-2520-7432-G1-Harmonix/webdev-course-Harmonix.git](https://github.com/1ASI0730-2520-7432-G1-Harmonix/webdev-course-Harmonix.git) 
 
