@@ -62,7 +62,8 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=yUL_-GP8XyU)  
 - **Consejos clave**: Integración HTML + CSS, depuración básica y buenas prácticas.  
 - **Proyecto Final**: [Crear tu Perfil]() 
-
+ **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/)
+  
 ## Recursos Adicionales 
 
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname) 
