@@ -32,7 +32,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 2: Introducción a HTML (10 minutos) — Jose
 - **Descripción**: Enseña las etiquetas básicas `<html>`, `<head>`, `<body>`, `<h1>`, `<p>` y cómo estructurar la primera página web desde cero.  
 - **Objetivo**: Que el estudiante pueda crear contenido básico en una página web.  
-- **Enlace**: [Ver la lección](https://youtu.be/LirJ9c6tjEg)  
+- **Enlace**: [Ver la lección](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213989_upc_edu_pe/IQB5twPWeqYVR5DRH14JyCQDAaKq-ccfySbbTPiGpsIKfk4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=umT0ki)  
 - **Consejos clave**: Usa estructura HTML correcta y agrega contenido simple.  
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) **¡No necesitas registrarte!**  
 
