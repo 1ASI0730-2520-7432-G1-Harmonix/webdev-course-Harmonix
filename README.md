@@ -41,7 +41,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 3: Elementos HTML comunes (8 minutos) — Camilla
 - **Descripción**: Muestra cómo añadir imágenes, listas y enlaces para hacer una página más completa e interactiva.  
 - **Objetivo**: Organizar información visualmente y enriquecer la página con elementos multimedia.  
-- **Enlace**: [Ver la lección](https://youtu.be/STJW12qi7fc)  
+- **Enlace**: [Ver la lección](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/IQCtMzFo8XcuTa3ZmbByA-3iARts3a3DTpnlEO4361Xpj9o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UMHbAq)  
 - **Consejos clave**: Usa `<img>`, `<ul>`, `<li>`, `<a>` para crear contenido visual y organizado.  
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) **¡Comienza al instante!**  
 
