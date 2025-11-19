@@ -13,6 +13,8 @@ requiere descargas!** Solo abre tu navegador web.
 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
 
+**Listado de Videos**: [https://www.youtube.com/playlist?list=PL_Mp49AubcnuE7pJ_WMsu0kjhnIm6pUpj](https://www.youtube.com/playlist?list=PL_Mp49AubcnuE7pJ_WMsu0kjhnIm6pUpj)
+
 **Repositorio de código fuente**: [https://github.com/1ASI0730-2520-7432-G1-Harmonix/webdev-course-Harmonix.git](https://github.com/1ASI0730-2520-7432-G1-Harmonix/webdev-course-Harmonix.git) 
 
 ## Secuencia de la lección 
@@ -20,7 +22,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 1: Introducción al desarrollo web (5 minutos) — Sebastián
 - **Descripción**: Explica qué es un sitio web, cómo funciona Internet y cuál es el rol de HTML y CSS en la construcción de páginas.  
 - **Objetivo**: Que los estudiantes comprendan la estructura básica de la web.  
-- **Enlace**: [Ver la lección](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111041_upc_edu_pe/IQDc5LxurWOXQY3e28r1NSwrAXt5gh04K627uspp3BaYT-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WPhObu)  
+- **Enlace**: [Ver la lección](https://youtu.be/V0CrtfocQ0A)  
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).  
 - **Empieza a programar**: [Abrir CodePen](https://codepen.io/pen/)  
 
@@ -29,7 +31,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 2: Introducción a HTML (10 minutos) — Jose
 - **Descripción**: Enseña las etiquetas básicas `<html>`, `<head>`, `<body>`, `<h1>`, `<p>` y cómo estructurar la primera página web desde cero.  
 - **Objetivo**: Que el estudiante pueda crear contenido básico en una página web.  
-- **Enlace**: [Ver la lección](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213989_upc_edu_pe/IQB5twPWeqYVR5DRH14JyCQDAaKq-ccfySbbTPiGpsIKfk4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=umT0ki)  
+- **Enlace**: [Ver la lección](https://youtu.be/IFvM4jm5y38)  
 - **Consejos clave**: Usa estructura HTML correcta y agrega contenido simple.  
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) **¡No necesitas registrarte!**  
 
@@ -38,7 +40,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 3: Elementos HTML comunes (8 minutos) — Camilla
 - **Descripción**: Muestra cómo añadir imágenes, listas y enlaces para hacer una página más completa e interactiva.  
 - **Objetivo**: Organizar información visualmente y enriquecer la página con elementos multimedia.  
-- **Enlace**: [Ver la lección](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214572_upc_edu_pe/IQCtMzFo8XcuTa3ZmbByA-3iARts3a3DTpnlEO4361Xpj9o?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UMHbAq)  
+- **Enlace**: [Ver la lección](https://youtu.be/DCT42WPiqwQ)  
 - **Consejos clave**: Usa `<img>`, `<ul>`, `<li>`, `<a>` para crear contenido visual y organizado.  
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) **¡Comienza al instante!**  
 
@@ -56,7 +58,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 5: Proyecto final + Cierre (15 minutos) — Kevin
 - **Descripción**: Muestra cómo combinar HTML y CSS para crear una página personal o página de perfil completa. Incluye consejos finales, errores comunes y próximos pasos para seguir aprendiendo desarrollo web.  
 - **Objetivo**: Consolidar todo lo aprendido en el curso y motivar al estudiante a continuar explorando.  
-- **Enlace**: [Ver la lección](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a525_upc_edu_pe/IQAUImcUN9kwRb6dA_bXNl6KAaAK0E1uM5EtxGnrmm12Yuc?e=pR8sY6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+- **Enlace**: [Ver la lección](https://youtu.be/htb-GhgnJEE)  
 - **Consejos clave**: Integración HTML + CSS, depuración básica y buenas prácticas.  
 - **Proyecto Final**: [Crear tu Perfil]() 
  **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/)
