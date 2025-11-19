@@ -13,9 +13,6 @@ requiere descargas!** Solo abre tu navegador web.
 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
 
-**Listado de Videos**: [https://www.youtube.com/playlist?list=PL5HnkUUAU_81QZUI9-GmUr79oGuUBwM-8](https://www.youtube.com/playlist?list=PL5HnkUUAU_81QZUI9-GmUr79oGuUBwM-8)
-
-
 **Repositorio de código fuente**: [https://github.com/1ASI0730-2520-7432-G1-Harmonix/webdev-course-Harmonix.git](https://github.com/1ASI0730-2520-7432-G1-Harmonix/webdev-course-Harmonix.git) 
 
 ## Secuencia de la lección 
@@ -59,7 +56,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 5: Proyecto final + Cierre (15 minutos) — Kevin
 - **Descripción**: Muestra cómo combinar HTML y CSS para crear una página personal o página de perfil completa. Incluye consejos finales, errores comunes y próximos pasos para seguir aprendiendo desarrollo web.  
 - **Objetivo**: Consolidar todo lo aprendido en el curso y motivar al estudiante a continuar explorando.  
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=yUL_-GP8XyU)  
+- **Enlace**: [Ver la lección](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a525_upc_edu_pe/IQAUImcUN9kwRb6dA_bXNl6KAaAK0E1uM5EtxGnrmm12Yuc?e=pR8sY6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 - **Consejos clave**: Integración HTML + CSS, depuración básica y buenas prácticas.  
 - **Proyecto Final**: [Crear tu Perfil]() 
  **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/)
