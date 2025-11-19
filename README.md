@@ -23,7 +23,7 @@ requiere descargas!** Solo abre tu navegador web.
 ### Lección 1: Introducción al desarrollo web (5 minutos) — Sebastián
 - **Descripción**: Explica qué es un sitio web, cómo funciona Internet y cuál es el rol de HTML y CSS en la construcción de páginas.  
 - **Objetivo**: Que los estudiantes comprendan la estructura básica de la web.  
-- **Enlace**: [Ver la lección](https://youtu.be/sdGCdmTru6U)  
+- **Enlace**: [Ver la lección](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111041_upc_edu_pe/IQDc5LxurWOXQY3e28r1NSwrAXt5gh04K627uspp3BaYT-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WPhObu)  
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).  
 - **Empieza a programar**: [Abrir CodePen](https://codepen.io/pen/)  
 
